@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/lab-sticc-cnrs-umr-6285/integrations
+- https://n8n.io/integrations/lab-sticc-cnrs-umr-6285/
+- https://composio.dev/toolkits/lab-sticc-cnrs-umr-6285
+- https://monid.ai/tools/lab-sticc-cnrs-umr-6285
+checked:
+- https://composio.dev/toolkits/lab-sticc-cnrs-umr-6285
+- https://monid.ai/tools/lab-sticc-cnrs-umr-6285
+- https://n8n.io/integrations/lab-sticc-cnrs-umr-6285/
+- https://zapier.com/apps/lab-sticc-cnrs-umr-6285/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
